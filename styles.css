@@ -9,7 +9,7 @@
     position: relative; 
     font-size: 3rem; 
     color: #511662; 
-    animation: move-title 5s linear infinite; 
+    animation: move-title 7s linear infinite; 
 }
 
 @keyframes move-title {
